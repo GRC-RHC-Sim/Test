@@ -1,1 +1,0 @@
-This location will be used to store documentation and code pertinate to ThOMAS.
