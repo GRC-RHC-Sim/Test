@@ -1,11 +1,11 @@
 T-MATS
 ==========
 
-Toolbox for the Modeling and Analysis of Thermodynamic Systems
+Toolbox for the Modeling and Analysis of Thermodynamic Systems <br>
+
+<b> To Download:<a href= "https://github.com/nasa/T-MATS/releases" >Click Here</a> </b> <br><br>
 
 ==========
-
-<b> To Download:<a href= "https://github.com/nasa/T-MATS/releases" >Click Here</a> </b> <br>
 <b>Introduction</b> <br>
 The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) 
 is a Simulink toolbox intended for use in the modeling and simulation of thermodynamic 
