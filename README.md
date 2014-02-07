@@ -2,7 +2,7 @@ T-MATS
 ==========
 
 Toolbox for the Modeling and Analysis of Thermodynamic Systems
-<b> To Download:<font color="green"> <a href= "https://github.com/nasa/T-MATS/releases" >Click Here</a> </b></font>
+<b> To Download:<a href= "https://github.com/nasa/T-MATS/releases" >Click Here</a> </b>
 ==========
 
 <b>Introduction</b> <br>
